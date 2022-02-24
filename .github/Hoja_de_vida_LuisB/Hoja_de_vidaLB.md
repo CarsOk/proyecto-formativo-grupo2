@@ -1,5 +1,5 @@
 # HOJA DE VIDA
-![Mi foto](https://drive.google.com/file/d/1ud2rr3bQfromTLX3wuL-wNkVMRz8yROF/view?usp=sharing "Foto hoja de vida")
+![Mi foto](https://lh3.google.com/u/0/d/1ud2rr3bQfromTLX3wuL-wNkVMRz8yROF=w1366-h625-iv1)
 
 ## DATOS PERSONALES
 
