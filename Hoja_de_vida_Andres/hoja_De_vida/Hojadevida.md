@@ -2,20 +2,20 @@
 
 # DATOS PERSONALES
 
-NOMBRES Y APELLIDOS:***************ORLANDO ENRIQUE DE LA HOZ ECHAVARRIA 
+NOMBRES Y APELLIDOS:***************Andres Felipe Navarro Max 
  
-FECHA DE NACIMIENTO:***************27/04/2000  
+FECHA DE NACIMIENTO:***************7/9/2004 
 
-CÉDULA DE CIUDADANÍA:**************1.010.114.035 
+TARGETA DE IDENTIDAD :**************1043662125
 
 SEXO:******************************Masculino 
 
 ESTADO CIVIL:**********************Soltero 
 
-DIRECCIÓN:*************************Calle 13B #26-38 
+DIRECCIÓN:*************************carrera 3B #37D-46 
 
-TELÉFONO:**************************3023984726 
+TELÉFONO:**************************3137952370
 
-E-MAIL:****************************orlandodelahoz2712@gmail.com
+E-MAIL:****************************navarromaxandresfelipe@gmail.com
 
 
