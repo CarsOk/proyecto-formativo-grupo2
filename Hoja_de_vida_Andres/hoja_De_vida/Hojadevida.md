@@ -2,20 +2,9 @@
 
 # DATOS PERSONALES
 
-NOMBRES Y APELLIDOS:***************Andres Felipe Navarro Max 
- 
-FECHA DE NACIMIENTO:***************7/9/2004 
-
-TARGETA DE IDENTIDAD :**************1043662125
-
-SEXO:******************************Masculino 
-
-ESTADO CIVIL:**********************Soltero 
-
-DIRECCIÓN:*************************carrera 3B #37D-46 
-
-TELÉFONO:**************************3137952370
-
-E-MAIL:****************************navarromaxandresfelipe@gmail.com
-
+| NOMBRES Y APELLIDOS| FECHA DE NACIMENTO | TARGETA DE IDENTIDAD | SEXO  | ESTADO CIVIL| 
+| ------ | ----------- | ----- | ------------------- | ------------ | 
+| Andres Felipe Navarro Max | 7/9/2004 | 1043662125 | masculino | soltero |
+| DIRRECCIÓN |  TELEFONO |  E-MAIL |
+| carrera 3B #37D-46  |3137952370 |  navarromaxandresfelipe@gmail.com |
 
